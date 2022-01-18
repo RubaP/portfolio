@@ -1,0 +1,1062 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Rrubaa - Portfolio</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/ionicons.min.css">
+    
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+	  
+	  
+    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
+	    <div class="container">
+	      <a class="navbar-brand" href="index.html"><span>R</span>rubaa</a>
+	      <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="oi oi-menu"></span> Menu
+	      </button>
+
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav nav ml-auto">
+	          <li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
+	          <li class="nav-item"><a href="#about-section" class="nav-link"><span>About</span></a></li>
+	          <li class="nav-item"><a href="#resume-section" class="nav-link"><span>Resume</span></a></li>
+	          <li class="nav-item"><a href="#services-section" class="nav-link"><span>Activities</span></a></li>
+	          <li class="nav-item"><a href="#projects-section" class="nav-link"><span>Projects</span></a></li>
+	          <li class="nav-item"><a href="sdp.html" class="nav-link"><span>SDP</span></a></li>
+	          <li class="nav-item"><a href="#contact-section" class="nav-link"><span>Contact</span></a></li>
+	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+	  <section class="hero-wrap js-fullheight">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row no-gutters slider-text js-fullheight justify-content-center align-items-center">
+          <div class="col-lg-8 col-md-6 ftco-animate d-flex align-items-center">
+          	<div class="text text-center">
+          		<span class="subheading">Hey! I am</span>
+		  				<h1>Rrubaa Panchendrarajan</h1>
+			  				<h2>I'm a 
+								  <span
+								     class="txt-rotate"
+								     data-period="2000"
+								     data-rotate='[ "Lecturer.", "Researcher.", "Passionate Learner."]'></span>
+								</h2>
+							</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mouse">
+				<a href="#" class="mouse-icon">
+					<div class="mouse-wheel"><span class="ion-ios-arrow-round-down"></span></div>
+				</a>
+			</div>
+    </section>
+
+    <section class="ftco-about img ftco-section ftco-no-pt ftco-no-pb" id="about-section">
+    	<div class="container">
+    		<div class="row d-flex no-gutters">
+    			<div class="col-md-6 col-lg-6 d-flex">
+    				<div class="img-about img d-flex align-items-stretch">
+    					<div class="overlay"></div>
+	    				<div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/about.jpg);">
+	    				</div>
+    				</div>
+    			</div>
+    			<div class="col-md-6 col-lg-6 pl-md-5 py-5">
+    				<div class="row justify-content-start pb-3">
+		          <div class="col-md-12 heading-section ftco-animate">
+		          	<h1 class="big">About</h1>
+		            <h2 class="mb-4">About Me</h2>
+		            <p>I am a Lecture attached to Sri Lanka Institute of Information Technology.</p>
+		            <ul class="about-info mt-4 px-md-0 px-2">
+		            	<li class="d-flex"><span>Name:</span> <span>Rrubaa Panchendrarajan</span></li>
+		            	<li class="d-flex"><span>Date of birth:</span> <span>December 16, 1991</span></li>
+		            	<li class="d-flex"><span>Address:</span> <span>SLIIT Malabe Campus, New Kandy Rd, Malabe</span></li>
+		            	<li class="d-flex"><span>Zip code:</span> <span>10115</span></li>
+		            	<li class="d-flex"><span>Email:</span> <span>rrubaa.p@sliit.lk</span></li>
+		            	<li class="d-flex"><span>Phone: </span> <span>0779507838</span></li>
+		            </ul>
+		          </div>
+		        </div>
+	          <div class="counter-wrap ftco-animate d-flex mt-md-3">
+              <div class="text">
+              	<p class="mb-4">
+	                <span class="number" data-number="6">0</span>
+	                <span>Years of Research, Professional and Teaching Experience</span>
+                </p>
+                <p><a href="#" class="btn btn-primary py-3 px-3">Download CV</a></p>
+              </div>
+	          </div>
+	        </div>
+        </div>
+    	</div>
+    </section>
+
+    <section class="ftco-section ftco-no-pb goto-here" id="resume-section">
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-md-3">
+				    <nav id="navi">
+					    <ul>
+					      <li><a href="#page-1">Education</a></li>
+					      <li><a href="#page-2">Experience</a></li>
+					      <li><a href="#page-3">Research Interest</a></li>
+						  <li><a href="#page-4">Publications</a></li>
+						  <li><a href="#page-5">Professional Membership</a></li>
+						  <li><a href="#page-6">Awards & Competitions</a></li>
+						  <li><a href="#page-7">Certifications</a></li>
+						  <li><a href="#page-8">Language Proficiency</a></li>
+					    </ul>
+					  </nav>
+					</div>
+					<div class="col-md-9">
+					  <div id="page-1" class= "page one">
+					  	<h2 class="heading">Education</h2>
+					    <div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2018 - 2021</span>
+		    					<h2>Master of Science (by Research)</h2>
+		    					<span class="position">National University of Singapore</span>
+		    					<p>Master of Science with a CAP of 4.75 (out of 5) and Passed Qualifying Examination for Ph.D.
+									</br>Thesis: Emotion-aware Event Summarization in Microblogs.
+									</br>Link: https://scholarbank.nus.edu.sg/handle/10635/188077
+									</p>
+	    					</div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2011 - 2016</span>
+		    					<h2>Bachelor of the Science of Engineering</h2>
+		    					<span class="position">University of Moratuwa</span>
+		    					<p>B. Sc., First Class (Hons) in Engineering Specialized in Computer Science and Engineering with a GPA of 3.96 (out of 4.2)
+.</br>Dean’s List for the semesters 1, 2, 3, 4, 7 & 8
+</br>Qualified to enter the Department of Computer Science and Engineering after obtaining a GPA of 4.05 from first-semester examination.</p>
+		    				</div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2010</span>
+		    					<h2>G.C.E Advanced level </h2>
+		    					<span class="position">Pakkiyam National College, Matale</span>
+		    					<p>1st rank in district and 39th rank in Sri Lanka with 3As and a Z-score of 2.6138.</p>
+		    				</div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2007</span>
+		    					<h2>G.C.E Ordinary level </h2>
+		    					<span class="position">Pakkiyam National College, Matale</span>
+		    					<p>Result - 8As, B.</p>
+		    				</div>
+	    				</div>
+					  </div>
+
+					  <div id="page-2" class= "page two">
+					  	<h2 class="heading">Experience</h2>
+					    <div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">Jun 2021 - Present</span>
+		    					<h2>Lecturer</h2>
+		    					<span class="position">Sri Lanka Institute of Information Technology</span>
+		    					<p><b>Modules Taught/Teaching</b>:
+										</br> * Machine Learning for Cyber Security
+										</br> * Operating Systems and System Administration
+										</br> * Information Storage Management
+										</br> * Information Systems Project
+										</br> * Requirement Engineering
+										</br> * Introduction to Information Technology
+								</p>
+								</p><b>Projects Supervising/Co-Supervising</b>:
+										</br> * Cricket Skill Development System
+										</br> * Analyzing Smartwatch Healthcare Data with Robust Prediction to identify Future diabetes and congestive heart failure Conditions
+										</br> * UNWIND – A Mobile Application for Emotional Support for Working Women
+										</br> * iMASK: Intelligent Mast to Detect Symptoms of COVID-19
+										</br> * English to Tamil Exam Question Paper Translation using Neural Machine Translation
+										</br> * Tea leaves assessment system for the Tea factories in Sri Lanka
+										</br> * Ayurvedic Medical Treatment Recommendations using Information Retrieval Techniques
+										</br> * Real-time Translation of Sinhala Sign Language to Sinhala Text
+										</br> * An Application for Supporting Deaf People's Communication
+										</br> * CocoSL - A ML based application for Srilankan Coconut Farms
+										</br> * Tamil Grammarly – A typing software based on NLP
+										</br> * Kids Buddy: Application for Slow Learning Children with flexible Learning Methods
+								</p>
+		    				</div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">Jan 2021 - June 2021</span>
+		    					<h2>Visiting Lecture</h2>
+		    					<span class="position">Informatics Institute of Technology</span>
+		    					<p><b>Modules Taught</b>:
+									</br> * Algorithms: Theory, design and implementation</p>
+		    				</div>
+	    				</div>
+
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">Aug 2018 - May 2020</span>
+		    					<h2>Teaching Assitant</h2>
+		    					<span class="position">National University of Singapore</span>
+		    					<p><b>Modules Taught</b>:
+									</br> * Software Engineering & Object-Oriented Programming
+									</br> * Software Engineering
+									</p>
+
+									</div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">Apr 2016 - Jan 2018</span>
+		    					<h2>Software Engineer</h2>
+		    					<span class="position">Sysco Labs Pvt Ltd</span>
+		    					<p>Sysco LABS provides an integrated, end-to-end Point of Sale (POS) platform for the restaurant industry.
+								</br>I worked in Cake core team which governs the main product of Cake Labs, POS (Point of Sale).
+								</br><b>Projects:</b>
+								</br>1. Rewriting of POS platform with React JS framework
+								</br>2. Writing REST API for 3rd party clients
+								</br>3. New features implementation for POS
+								</br>4. POS Stability
+								</br>   - Analyzed and identified root causes for 150+ issues in a very short time period
+								</br>   - Being selected as the best stability contributor among 15+ developers
+								</p>
+		    				</div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date"> Oct 2014 - Apr 2015</span>
+		    					<h2>Software Engineering Intern</h2>
+		    					<span class="position">Sysco Labs Pvt Ltd</span>
+		    					<p><b>Projects</b>
+								</br>1. Mixpanel Integration to POS for tracking & analyzing user behavior
+								</br>2. Card-Based login system for POS
+								</p>
+		    				</div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">Jan 2015 - Apr 2015</span>
+		    					<h2>PreGSOC</h2>
+		    					<span class="position">GeoGebra</span>
+		    					<p>Got selected among top ten best students of PreGSOC of GeoGebra.</p>
+		    				</div>
+	    				</div>
+						<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">Feb 2014 - May 2015</span>
+		    					<h2>Level 2 Programmer</h2>
+		    					<span class="position">Fiverr</span>
+		    					<p>Project areas: Data Structures & Algorithms, Mathematics, and Programming (Java & Python).
+								</br> Link: https://www.fiverr.com/ruba16</p>
+		    				</div>
+	    				</div>
+					  </div>
+					  <div id="page-3" class= "page three">
+							<h2 class="heading">Research Interest</h2>
+							<div class="row">
+					  		<div class="col-md-6 animate-box">
+									<div class="progress-wrap ftco-animate">
+										<h3>Natural Language Processing</h3>
+										<div class="progress">
+										 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="90"
+										  	aria-valuemin="0" aria-valuemax="100" style="width:100%">
+										  	</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6 animate-box">
+									<div class="progress-wrap ftco-animate">
+										<h3>Artificial Intelligence</h3>
+										<div class="progress">
+										 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="85"
+										  	aria-valuemin="0" aria-valuemax="100" style="width:100%">
+										  	</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6 animate-box">
+									<div class="progress-wrap ftco-animate">
+										<h3>Machine Learning</h3>
+										<div class="progress">
+										 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="95"
+										  	aria-valuemin="0" aria-valuemax="100" style="width:100%">
+										  	</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6 animate-box">
+									<div class="progress-wrap ftco-animate">
+										<h3>Social Media Analysis</h3>
+										<div class="progress">
+										 	<div class="progress-bar color-4" role="progressbar" aria-valuenow="90"
+										  	aria-valuemin="0" aria-valuemax="100" style="width:100%">
+										  	</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6 animate-box">
+									<div class="progress-wrap ftco-animate">
+										<h3>Information Retrieval</h3>
+										<div class="progress">
+										 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="70"
+										  	aria-valuemin="0" aria-valuemax="100" style="width:100%">
+										  	</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6 animate-box">
+									<div class="progress-wrap ftco-animate">
+										<h3>Computer Vision</h3>
+										<div class="progress">
+										 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
+										  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
+										  	</div>
+										</div>
+									</div>
+								</div>
+					  	</div>
+					  </div>
+					  
+					  <div id="page-4" class= "page four">
+					    <h2 class="heading">Publications</h2>
+					    <div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">ICAC 2021</span>
+		    					</br><span class="position">Cricket Shot Image Classification Using Random Forest</span>
+		    					<p>Mithelan Devanandan, Vithurson Rasaratnam, Manoj Karthik Anbalagan, Narthanan Asokan, <b>Rrubaa Panchendrarajan</b>, Janani Tharmaseelan</p>
+	    					</div>
+	    				</div>
+						<div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">AIofAI at IJCAI 2021</span>
+		    					</br><span class="position">Dataset Reconstruction Attack against Language Models</span>
+		    					<p><b>Rrubaa Panchendrarajan</b>, Suman Bhoi</p>
+	    					</div>
+	    				</div>
+						
+						<div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">SocialNLP at WWW 2021</span>
+		    					</br><span class="position">Emotion-Aware Event Summarization in Microblogs</span>
+		    					<p><b>Rrubaa Panchendrarajan</b>, Wynne Hsu, Mong Li Lee</p>
+	    					</div>
+	    				</div>
+
+						<div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">PACLIC 2018</span>
+		    					</br><span class="position">Bidirectional LSTM-CRF for Named Entity Recognition</span>
+		    					<p><b>Rrubaa Panchendrarajan</b>, Aravindh Amaresan</p>
+	    					</div>
+	    				</div>
+						<div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">HyperText 2017</span>
+								</br><span class="position">Eatery: a multi-aspect restaurant rating system</span>
+		    					<p><b>Rrubaa Panchendrarajan</b>, Nazick Ahamed, Prakhash Sivakumar, Brunthavan Murugaiah, Surangika Ranathunga, Akila Pemasiri</p>
+	    					</div>
+	    				</div>
+						<div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">WASSA at NAACL 2026</span>
+		    					</br><span class="position">Implicit aspect detection in restaurant reviews using cooccurence of words</span>
+		    					<p><b>Rrubaa Panchendrarajan</b>, Nazick Ahamed, Brunthavan Murugaiah, Prakhash Sivakumar, Surangika Ranathunga, Akila Pemasiri</p>
+	    					</div>
+	    				</div>
+						<div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">MerCon 2016</span>
+		    					</br><span class="position">Cheap food or friendly staff? Weighting hierarchical aspects in the restaurant domain</span>
+		    					<p><b>R Panchendrarajan</b>, B. Murugaiah, S. Prakhash, M. N. Nazick Ahamed, S. Ranathunga, A. Pemasiri</p>
+	    					</div>
+	    				</div>
+						<div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">MerCon 2016</span>
+		    					</br><span class="position">Categorizing food names in restaurant reviews</span>
+		    					<p>S Prakhash, A Nazick, <b>R Panchendrarajan</b>, M Brunthavan, S Ranathunga, A Pemasiri</p>
+	    					</div>
+	    				</div>
+					  
+					  
+							<section class="ftco-section ftco-no-pt ftco-no-pb ftco-counter img" id="section-counter">
+								<div class="container-fluid px-md-5">
+										<div class="row d-md-flex align-items-center">
+								  <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+									<div class="block-18 shadow">
+									  <div class="text">
+										<strong class="number" data-number="67">67</strong>
+										<span>Citations</span>
+									  </div>
+									</div>
+								  </div>
+								  <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+									<div class="block-18 shadow">
+									  <div class="text">
+										<strong class="number" data-number="4">4</strong>
+										<span>H-Index</span>
+									  </div>
+									</div>
+								  </div>
+								  <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+									<div class="block-18 shadow">
+									  <div class="text">
+										<strong class="number" data-number="2">2</strong>
+										<span>i10-Index</span>
+									  </div>
+									</div>
+								  </div>
+								</div>
+							  </div>
+							  
+							</section>
+	</div>
+					  <div id="page-5" class= "page five" style="padding-top:100px">
+					  	<h2 class="heading">Professional Membership</h2>
+					  	<div class="row progress-circle mb-5">
+					  		<div class="col-lg-4 mb-4">
+						      <div class="bg-white rounded-lg shadow p-4">
+						        <h2 class="h5 font-weight-bold text-center mb-4">Institution of Engineers Sri Lanka</h2>
+
+						        <!-- Progress bar 1 -->
+						        <div class="progress mx-auto" data-value='100'>
+						          <span class="progress-left">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <span class="progress-right">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
+						            <div class="h4 font-weight-bold">IESL</div>
+						          </div>
+						        </div>
+						        <!-- END -->
+
+						        <!-- Demo info -->
+						        <div class="row text-center mt-4">
+						          <div class="col-12">
+						            <div class="h6 font-weight-bold mb-0">Associate Member</div>
+						          </div>
+						        </div>
+						        <!-- END -->
+						      </div>
+						    </div>
+
+						    <div class="col-lg-4 mb-4">
+						      <div class="bg-white rounded-lg shadow p-4">
+						        <h2 class="h5 font-weight-bold text-center mb-4">Institute of Electrical and Electronics Engineers</h2>
+
+						        <!-- Progress bar 1 -->
+						        <div class="progress mx-auto" data-value='100'>
+						          <span class="progress-left">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <span class="progress-right">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
+						            <div class="h4 font-weight-bold">IEEE</div>
+						          </div>
+						        </div>
+						        <!-- END -->
+
+						        <!-- Demo info -->
+						        <div class="row text-center mt-4">
+						          <div class="col-12">
+						            <div class="h6 font-weight-bold mb-0">Member</div>
+						          </div>
+						        </div>
+						        <!-- END -->
+						      </div>
+						    </div>
+
+						    <div class="col-lg-4 mb-4">
+						      <div class="bg-white rounded-lg shadow p-4">
+						        <h2 class="h5 font-weight-bold text-center mb-4">IEEE Women in Engineering</h2>
+
+						        <!-- Progress bar 1 -->
+						        <div class="progress mx-auto" data-value='100'>
+						          <span class="progress-left">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <span class="progress-right">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
+						            <div class="h4 font-weight-bold">IEEE(WIE)</div>
+						          </div>
+						        </div>
+						        <!-- END -->
+
+						        <!-- Demo info -->
+						        <div class="row text-center mt-4">
+						          <div class="col-12">
+						            <div class="h6 font-weight-bold mb-0">Member</div>
+						          </div>
+						        </div>
+						        <!-- END -->
+						      </div>
+						    </div>
+					  	</div>
+
+					  </div>
+					  
+					  <div id="page-6" class= "page six">
+					    <h2 class="heading">Awards & Competitions</h2>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">Jan 2018 - Dec 2019</span>
+		    					<h2>Research Scholar</h2>
+		    					<span class="position">National University of Singapore </span>
+		    					</div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2015</span>
+		    					<h2> World Rank 21</h2>
+		    					<span class="position">Taxi Time Prediction (II)</span>
+		    					<p>Data Mining Competition Organized by Kaggle</p>
+		    				</div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2016</span>
+		    					<h2>1st Place</h2>
+		    					<span class="position">CakeLabs Got Talents</span>
+								<p>Link: https://www.youtube.com/watch?v=0ZlBsZkHQS4</p>
+							</div>
+	    				</div>
+					  </div>
+					  
+					  <div id="page-7" class= "page seven">
+					    <h2 class="heading">Certifications</h2>
+						<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2021</span>
+		    					<h2>Machine Learning</h2>
+		    					<span class="position">Stanford University</span>
+		    					<p>Marks Obtained: 100%
+								</br>Link: https://www.coursera.org/account/accomplishments/verify/25JGEZT88QZS</p>
+								</div>
+	    				</div>
+						
+					    <div class="resume-wrap d-flex ftco-animate">
+					    	<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">Nov 2020</span>
+		    					<h2>Responsible Code of Research</h2>
+		    					<span class="position">Colloborative Institutional Training Iniative (CITI) Program</span>
+		    					<p>Link: https://www.citiprogram.org/verify/?w1de3f9d9-8dec-4636-aff6-52bf3e9ba4ee-39763405</p>
+							</div>
+	    				</div>
+	    			
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2014</span>
+		    					<h2>Java EE 5 Programmer</h2>
+		    					<span class="position">Oracle</span>
+		    					<p>Marks: 97%</p></div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2013</span>
+		    					<h2>Java SE 6 Programmer</h2>
+		    					<span class="position">Oracle</span>
+		    					<p>Marks: 90%</p></div>
+	    				</div>
+					  </div>
+					  <div id="page-8" class= "page eight">
+					  	<h2 class="heading">Language Proficiency</h2>
+					  	<div class="row progress-circle mb-5">
+					  		<div class="col-lg-4 mb-4">
+						      <div class="bg-white rounded-lg shadow p-4">
+						        <h2 class="h5 font-weight-bold text-center mb-4">English</h2>
+
+						        <!-- Progress bar 1 -->
+						        <div class="progress mx-auto" data-value='90'>
+						          <span class="progress-left">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <span class="progress-right">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
+						            <div class="h6 font-weight-bold">Proficient<sup class="small"></sup></div>
+						          </div>
+						        </div>
+						        <!-- END -->
+						      </div>
+						    </div>
+
+						    <div class="col-lg-4 mb-4">
+						      <div class="bg-white rounded-lg shadow p-4">
+						        <h2 class="h5 font-weight-bold text-center mb-4">Tamil</h2>
+
+						        <!-- Progress bar 1 -->
+						        <div class="progress mx-auto" data-value='100'>
+						          <span class="progress-left">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <span class="progress-right">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
+						            <div class="h6 font-weight-bold">Fluent<sup class="small"></sup></div>
+						          </div>
+						        </div>
+						        <!-- END -->
+
+						      </div>
+						    </div>
+
+						    <div class="col-lg-4 mb-4">
+						      <div class="bg-white rounded-lg shadow p-4">
+						        <h2 class="h5 font-weight-bold text-center mb-4">Sinhala</h2>
+
+						        <!-- Progress bar 1 -->
+						        <div class="progress mx-auto" data-value='60'>
+						          <span class="progress-left">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <span class="progress-right">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
+						            <div class="h6 font-weight-bold">Conversational<sup class="small"></sup></div>
+						          </div>
+						        </div>
+						        <!-- END -->
+						      </div>
+						    </div>
+					  	</div>
+
+					  </div>
+					  
+					</div>
+			  </div>
+    	</div>
+    </section>
+
+    <section class="ftco-section" id="services-section">
+    	<div class="container-fluid px-md-5">
+    		<div class="row justify-content-center py-5 mt-5">
+          <div class="col-md-12 heading-section text-center ftco-animate">
+          	<h1 class="big big-2">Clubs & Activities</h1>
+            <h2 class="mb-4">Clubs & Activities</h2>
+          </div>
+        </div>
+    		<div class="row">
+					<div class="col-md-3 text-center d-flex ftco-animate">
+						<a class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-innovation"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Session Co-Chair</h3>
+								<p>ICAC 2021 - Artificial Intelligence</p>
+							</div>
+						</a>
+					</div>
+					
+					<div class="col-md-3 text-center d-flex ftco-animate">
+						<a class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-innovation"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Technical Programming Commitee Member</h3>
+								<p>ICAC 2021</p>
+							</div>
+						</a>
+					</div>
+					
+					<div class="col-md-3 text-center d-flex ftco-animate">
+						<a class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-analysis"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Conference Paper Reviewer</h3>
+								<p>ICAC 2021, ICON 2020 & DAFSAA 2021</p>
+							</div>
+						</a>
+					</div>
+					
+					<div class="col-md-3 text-center d-flex ftco-animate">
+						<a class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-analysis"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Journal Paper Reviewer</h3>
+								<p> DKE 2021</p>
+							</div>
+						</a>
+					</div>
+					
+					<div class="col-md-3 text-center d-flex ftco-animate">
+						<a href="#" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-flasks"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Master Proctor</h3>
+								<p>Sri Lankan Mathematics Competitions 2020/2021</p>
+							</div>
+						</a>
+					</div>
+					<div class="col-md-3 text-center d-flex ftco-animate">
+						<a href="#" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-idea"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Head Prefect</h3>
+								<p>Pakkiyam National College 2009-2010</p>
+							</div>
+						</a>
+					</div>
+					
+					<div class="col-md-3 text-center d-flex ftco-animate">
+						<a href="#" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-innovation"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">President</h3>
+								<p>Science Union of Pakkiyam National College 2009-2010</p>
+							</div>
+						</a>
+					</div>
+
+					<div class="col-md-3 text-center d-flex ftco-animate">
+						<a href="#" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-idea"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Junior Prefect</h3>
+								<p>Pakkiyam National College 2008-2009</p>
+							</div>
+						</a>
+					</div>
+				</div>
+    	</div>
+    </section>
+
+    <section class="ftco-section" id="projects-section">
+      <div class="container">
+        <div class="row justify-content-center mb-5 pb-5">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+            <h1 class="big big-2">Projects</h1>
+            <h2 class="mb-4">Research Projects</h2>
+          </div>
+        </div>
+        <div class="row d-flex">
+          <div class="col-md-12 d-flex ftco-animate">
+          	<div class="blog-entry justify-content-end">
+              <a href="https://github.com/RubaP/MOSAIC" class="block-20" style="background-image: url('images/mosaic.png'); height:200px; width:80%;">
+              </a>
+			  <p>Figure 1: Summary of COVID-19 outbreak over 3.2M tweets collected from Feb 6th to Apr 9th 2020</p>
+              <div class="text mt-3 float-right d-block">
+                <h3 class="heading"><a href="https://github.com/RubaP/MOSAIC">MOSAIC : Emotion-aware Event Summarization</a></h3>
+                <div class="d-flex align-items-center mb-3 meta">
+	                <p class="mb-0">
+	                	<span class="mr-2">2021</span>
+	                </p>
+                </div>
+                <p>MOSAIC is a framework for generating an emotion-aware event summary using a weakly supervised technique called
+					topic modelling. The summary will be composed of representative microblogs & emotion distribution of topics discussed.
+					</br>Research areas - Natural language processing, Text Summarization, Opinion Mining, Topic Modeling
+					</br>Technologies: Python</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 d-flex ftco-animate">
+          	<div class="blog-entry justify-content-end">
+              <a href="single.html" class="block-20" style="background-image: url('images/reconstruction.png');  height:300px; width:60%;">
+              </a>
+			  <p>Figure 2: Diagram Explaining the Setting of the Problem</p>
+              <div class="text mt-3 float-right d-block">
+                <h3 class="heading"><a href="single.html">Dataset Reconstruction Attack against Language Models</a></h3>
+                <div class="d-flex align-items-center mb-3 meta">
+	                <p class="mb-0">
+	                	<span class="mr-2">2021</span>
+	                </p>
+                </div>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 d-flex ftco-animate">
+          	<div class="blog-entry">
+              <div class="text mt-3 float-right d-block">
+                <h3 class="heading"><a href="https://dl.acm.org/doi/10.1145/3078714.3078737">Eatery</a></h3>
+                <div class="d-flex align-items-center mb-3 meta">
+	                <p class="mb-0">
+	                	<span class="mr-2">2016</span>
+	                </p>
+                </div>
+                <p>A multi-aspect restaurant rating system which finds rating value for hierarchy of aspects of a restaurant using customer
+					reviews. It enables a customer to choose a restaurant based on different aspects and merchants to compare themselves
+					with their competitors.
+					</br>Honors & Awards:
+					</br>- Obtained an A+ for the project
+					</br>- Selected as one of the three Nominees for best final year projects in Exolvere 2016
+					</br>Research areas: Natural Language Processing, Opinion mining, Text Categorization
+					</br>Technologies: Java, OpenNLP, Python</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="ftco-section contact-section ftco-no-pb" id="contact-section">
+      <div class="container">
+      	<div class="row justify-content-center mb-5 pb-3">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+            <h1 class="big big-2">Contact</h1>
+            <h2 class="mb-4">Contact Me</h2>
+            <p>I am passionate academic always interested in teaching as well as research. Contact me for research colloborations and disucssions.</p>
+          </div>
+        </div>
+
+        <div class="row d-flex contact-info mb-5">
+          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box text-center p-4 shadow">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-map-signs"></span>
+          		</div>
+          		<div>
+	          		<h3 class="mb-4">Address</h3>
+		            <p><a>Department of Computer Systems Engineering, New Building, SLIIT Malabe Campus, New Kandy Rd, Malabe</a></p>
+		          </div>
+	          </div>
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box text-center p-4 shadow">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-phone2"></span>
+          		</div>
+          		<div>
+	          		<h3 class="mb-4">Contact Number</h3>
+		            <p><a href="tel://1234567920">0779507838</a></p>
+	            </div>
+	          </div>
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box text-center p-4 shadow">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-paper-plane"></span>
+          		</div>
+          		<div>
+	          		<h3 class="mb-4">Email Address</h3>
+		            <p><a href="mailto:info@yoursite.com">rrubaa.p@sliit.lk</a></p>
+		          </div>
+	          </div>
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex ftco-animate">
+          	<div class="align-self-stretch box text-center p-4 shadow">
+          		<div class="icon d-flex align-items-center justify-content-center">
+          			<span class="icon-globe"></span>
+          		</div>
+          		<div>
+	          		<h3 class="mb-4">Projects</h3>
+		            <p><a href="https://github.com/RubaP">github.com/RubaP</a></p>
+	            </div>
+	          </div>
+          </div>
+        </div>
+
+        <div class="row no-gutters block-9">
+          <div class="col-md-6 order-md-last d-flex">
+            <form action="#" class="bg-light p-4 p-md-5 contact-form">
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Your Name">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Your Email">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Subject">
+              </div>
+              <div class="form-group">
+                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+              </div>
+              <div class="form-group">
+                <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
+              </div>
+            </form>
+          
+          </div>
+
+          <div class="col-md-6 d-flex">
+          	<div class="img" style="background-image: url(images/about.jpg);"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+		
+
+    <footer class="ftco-footer ftco-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md">
+            <div class="ftco-footer-widget mb-4">
+              <h2 class="ftco-heading-2">About</h2>
+              <p>I am passionate academic always interested in teaching as well as research. Contact me for research colloborations and disucssions.</p>
+              <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
+                <li class="ftco-animate"><a href="https://www.linkedin.com/in/rrubaa/"><span class="icon-linkedin"></span></a></li>
+				<li class="ftco-animate"><a href="https://github.com/RubaP"><span class="icon-github"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.facebook.com/pruba16"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.instagram.com/ruba167/"><span class="icon-instagram"></span></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="ftco-footer-widget mb-4 ml-md-4">
+              <h2 class="ftco-heading-2">Links</h2>
+              <ul class="list-unstyled">
+                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
+                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
+                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Resume</a></li>
+                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>SDP</a></li>
+                <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="ftco-footer-widget mb-4">
+            	<h2 class="ftco-heading-2">Have a Questions?</h2>
+            	<div class="block-23 mb-3">
+	              <ul>
+	                <li><span class="icon icon-map-marker"></span><span class="text">Department of Computer Systems Engineering, New Building, SLIIT Malabe Campus, New Kandy Rd, Malabe</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">0779507838</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">rrubaa.p@sliit.lk</span></a></li>
+	              </ul>
+	            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    
+  
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="js/scrollax.min.js"></script>
+  
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>
