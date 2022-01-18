@@ -77,7 +77,7 @@
     			<div class="col-md-6 col-lg-6 d-flex">
     				<div class="img-about img d-flex align-items-stretch">
     					<div class="overlay"></div>
-	    				<div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/about.jpg);">
+	    				<div class="img d-flex align-self-stretch align-items-center" style="background-image:url(images/About.jpg);">
 	    				</div>
     				</div>
     			</div>
@@ -871,7 +871,7 @@
           	<div class="blog-entry justify-content-end">
               <a href="single.html" class="block-20" style="background-image: url('images/reconstruction.png');  height:300px; width:60%;">
               </a>
-			  <p>Figure 2: Diagram Explaining the Setting of the Problem</p>
+			  <p>Figure 2: Diagram Explaining the Setting of the Dataset Reconstruction Attack</p>
               <div class="text mt-3 float-right d-block">
                 <h3 class="heading"><a href="single.html">Dataset Reconstruction Attack against Language Models</a></h3>
                 <div class="d-flex align-items-center mb-3 meta">
