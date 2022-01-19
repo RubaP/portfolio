@@ -452,7 +452,7 @@
 		    					<p>S Prakhash, A Nazick, <b>R Panchendrarajan</b>, M Brunthavan, S Ranathunga, A Pemasiri</p>
 	    					</div>
 	    				</div>
-					  
+						<p>Checkout my <a href="https://scholar.google.com/citations?user=y_wccPAAAAAJ&hl=en">Google Scholar Profile</a></p>
 					  
 							<section class="ftco-section ftco-no-pt ftco-no-pb ftco-counter img" id="section-counter">
 								<div class="container-fluid px-md-5">
@@ -850,7 +850,7 @@
         <div class="row d-flex">
           <div class="col-md-12 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <a href="https://github.com/RubaP/MOSAIC" class="block-20" style="background-image: url('images/mosaic.png'); height:200px; width:80%;">
+              <a href="https://github.com/RubaP/MOSAIC" class="block-20" style="background-image: url('images/mosaic.PNG'); height:200px; width:80%;">
               </a>
 			  <p>Figure 1: Summary of COVID-19 outbreak over 3.2M tweets collected from Feb 6th to Apr 9th 2020</p>
               <div class="text mt-3 float-right d-block">
