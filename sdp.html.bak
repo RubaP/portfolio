@@ -94,6 +94,7 @@
 			<a href="#5"><h5>6. Personal Development</h5></a>
 				<a href="#6.1"><h5>&emsp;6.1 Reflective Practice</h5></a>
 				<a href="#6.2"><h5>&emsp;6.2 Stress Management</h5></a>
+				<a href="#6.2"><h5>&emsp;6.3 Time Management</h5></a>
 			</div>
 		</div>
 	  </div>
@@ -501,7 +502,7 @@
 			He was a Senior Lecturer at University of Peradeniya and he is serving as a Director of Career Guidance Unit, University of Peradeniya. Dr B.M.K Perera poses a diverse set of experience into the field of Psychology and has been an instrumental inspiration to biding Psychologists and Psychology researcher.
 			
 			<h4 class="mb-3 mt-5">Reflective Practice</h4>
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light" id="6.1">
               <div class="bio mr-5">
                 <img src="images/reflective_practice.gif" alt="Image placeholder" class="img-fluid mb-4">
               </div>
@@ -517,7 +518,7 @@ ours, it is important that we reflect on by analysing, learning and acting accor
 			
 			<h4 class="mb-3 mt-5">Stress Management</h4>
 			
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light" id="6.2">
               <div class="bio mr-5">
                 <img src="images/stress.png" alt="Image placeholder" class="img-fluid mb-4">
               </div>
@@ -541,7 +542,7 @@ ours, it is important that we reflect on by analysing, learning and acting accor
 				
 			<h4 class="mb-3 mt-5">Time Management</h4>
 			
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light" id="6.3">
               <div class="bio mr-5">
                 <img src="images/time_management.jpg" alt="Image placeholder" class="img-fluid mb-4">
               </div>
