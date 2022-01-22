@@ -58,12 +58,52 @@
         </div>
       </div>
     </div>
+	
+	<section class="ftco-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 ftco-animate">
+            <h2 class="mb-3">Table of content</h2>
+			<a href="#intro"><h5>Introduction</h5></a>
+			<a href="#1"><h5>1. Teaching and Learning</h5></a>
+				<a href="#1.1"><h5>&emsp;1.1 Classroom Management</h5></a>
+					<a href="#1.1.1"><h5>&emsp;&emsp;1.1.1 4H Model</h5></a>
+					<a href="#1.1.2"><h5>&emsp;&emsp;1.1.2 Managing Different Types of Students</h5></a>
+				<a href="#1.2"><h5>&emsp;1.2 Building Leadership Qualities</h5></a>
+				<a href="#1.3"><h5>&emsp;1.3 Motivation of Students</h5></a>
+				<a href="#1.4"><h5>&emsp;1.4 Teaching and Learning Methods</h5></a>
+					<a href="#1.4.1"><h5>&emsp;&emsp;1.4.1 Domains of Learning</h5></a>
+					<a href="#1.4.2"><h5>&emsp;&emsp;1.4.2 Bloom's Taxonomy</h5></a>
+					<a href="#1.4.3"><h5>&emsp;&emsp;1.4.3 Student-centered Learning</h5></a>
+					<a href="#1.4.4"><h5>&emsp;&emsp;1.4.4 Teaching a Skill</h5></a>
+				<a href="#1.5"><h5>&emsp;1.5 Portfolio Development</h5></a>
+				<a href="#1.6"><h5>&emsp;1.6 Innovative and Interactive Teaching Methods</h5></a>
+				<a href="#1.7"><h5>&emsp;1.7 Lesson Planning</h5></a>
+				<a href="#1.8"><h5>&emsp;1.8 Effective use of Technology</h5></a>
+			<a href="#2"><h5>2. Assessment and Evaluation</h5></a>
+				<a href="#2.1"><h5>&emsp;2.1 Summative and Formative Assessments</h5></a>
+				<a href="#2.2"><h5>&emsp;2.2 Assessments Methods</h5></a>
+				<a href="#2.3"><h5>&emsp;2.3 Grading Assessments</h5></a>
+			<a href="#1"><h5>3. Curriculum Development</h5></a>
+				<a href="#3.1"><h5>&emsp;3.1 Outcome-based Education (OBE)</h5></a>
+				<a href="#3.2"><h5>&emsp;3.2 Curriculum Development</h5></a>
+			<a href="#4"><h5>4. Orientation as a Teacher</h5></a>
+				<a href="#4.1"><h5>&emsp;4.1 The Teacher in Higher Education</h5></a>
+				<a href="#4.2"><h5>&emsp;4.2 Softskills for Academics</h5></a>
+			<a href="#5"><h5>5. Research in the life of an academic</h5></a>
+			<a href="#5"><h5>6. Personal Development</h5></a>
+				<a href="#6.1"><h5>&emsp;6.1 Reflective Practice</h5></a>
+				<a href="#6.2"><h5>&emsp;6.2 Stress Management</h5></a>
+			</div>
+		</div>
+	  </div>
+	</section>
 		
 		<section class="ftco-section">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 ftco-animate">
-            <h2 class="mb-3">Introduction</h2>
+            <h2 class="mb-3" id="intro">Introduction</h2>
             <p>As an academic, it is important to develop the teaching, professional, personal, and social skills to ensure that we deliver high-quality educations to the students as per their needs. 
 			Staff development program conducted by Academic Development and Quality Assurance Unit at <a href="https://www.sliit.lk/">Sri Lanka Institute of Information Technology</a> covers various aspects of these basic skills required for an academic.
 			This course was developed by <a href="https://www.sliit.lk/faculty-of-humanities-sciences/staff/colin.p/">Prof. Colin</a>, who been serving the educational sector of Sri Lanka for over 31+ years, especially focusing on uplifting the quality of education in local and international Universities.
@@ -81,14 +121,14 @@
 			This article discusses my reflection on the 6th SDP on various topics delivered.
 			</p>
 			
-			<h3 class="mb-3 mt-5">1. Teaching and Learning</h3>
+			<h3 class="mb-3 mt-5" id="1">1. Teaching and Learning</h3>
 			Teaching and Learning category of this course covers range of aspects related to class room teaching from managing the students at the class to using technology effectively for delivery.
 			
-			<h4 class="mb-3 mt-5">Classroom Management</h4>
+			<h4 class="mb-3 mt-5" id="1.1">Classroom Management</h4>
 			This session was conducted on the very first day of the course by <a href="https://fapm.wyb.ac.lk/?page_id=1841">Prof. Udit Jayalath</a>. 
 			Prof. Udith Jayasinghe is the Vice-Chancellor of the Wayamba University of Sri Lanka (WUSL). He serves as the Senior Professor and the Chair of Dept. of Agribusiness Management, Faculty of Agriculture & Plantation Management of WUSL.
 			
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light" id="1.1.1">
               <div class="bio mr-5">
                 <img src="images/4h_model.png" alt="Image placeholder" class="img-fluid mb-4">
               </div>
@@ -98,7 +138,7 @@
 				</p></div>
             </div>
 			
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light"id="1.1.2">
               <div class="bio mr-5">
                 <img src="images/fish_tank.jpg" alt="Image placeholder" class="img-fluid mb-4">
               </div>
@@ -117,7 +157,7 @@
 				generally, a class is composed of all three kinds of students. The teacher must handle all three kinds of students according 
 				to their nature and make the other two groups of students as "Goldfish".
 			
-			<h4 class="mb-3 mt-5">Building Leadership Qualities</h4>
+			<h4 class="mb-3 mt-5" id="1.2">Building Leadership Qualities</h4>
 			
 			
 			<div class="about-author d-flex p-4 bg-light">
@@ -139,7 +179,7 @@
 				For example, being supportive as a "Coach", being strategic as a "Visionary Leader", having self-confidence as an "Autocratic Leader" etc.
 				This is self-analysis was helpful in understanding what kind of leaders we are and how can the other skills can be improved.
 			
-			<h4 class="mb-3 mt-5">Motivation of Students</h4>
+			<h4 class="mb-3 mt-5"id="1.3">Motivation of Students</h4>
 			
 			<div class="about-author d-flex p-4 bg-light">
               <div class="bio mr-5">
@@ -160,10 +200,10 @@
 				teaching styles, all affect the motivation of the students. Therefore we must focus on improving these five key aspects
 				to motivate the students for better learning.
 			
-			<h4 class="mb-3 mt-5">Teaching and Learning Methods</h4>
+			<h4 class="mb-3 mt-5" id="1.4">Teaching and Learning Methods</h4>
 			This topic was conducted through multiple sessions mainly by our valuable resource person, Prof. Chalinda Beneragama.
 			
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light" id="1.4.1">
               <div class="bio mr-5">
                 <img src="images/domains_of_learning.png" alt="Image placeholder" class="img-fluid mb-4">
               </div>
@@ -185,7 +225,7 @@
 			At the same time, as an academic, we must plan our delivery and assessment to cater to the need of all three types of learners.
 			
 			
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light" id="1.4.2">
               <div class="bio mr-5">
                 <img src="images/blooms_taxonomy.jpg" alt="Image placeholder" class="img-fluid mb-4">
               </div>
@@ -204,7 +244,7 @@
 			Many interesting stories were developped, some we could noticed that some story could touch the final level of the taxonomy "Create"
 			by asking the audience to find titles for the story and coming up with different endings for the story.
 			
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light" id="1.4.3">
               <div class="bio mr-5">
                 <img src="images/student_centered_learning.jpg" alt="Image placeholder" class="img-fluid mb-4">
               </div>
@@ -224,7 +264,7 @@
 			Further, games which adults generally like, roleplays, storytelling, case-studies, performing research, practicals, and field visits too
 			will support student-centered learning.
 			
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light" id="1.4.4">
               <div class="bio mr-5">
                 <img src="images/teaching_skills.png" alt="Image placeholder" class="img-fluid mb-4">
               </div>
@@ -237,7 +277,7 @@
 				</p></div>
             </div>
 			
-			<h4 class="mb-3 mt-5">Portfolio Development</h4>
+			<h4 class="mb-3 mt-5" id="1.5">Portfolio Development</h4>
 			
 			<div class="about-author d-flex p-4 bg-light">
               <div class="bio mr-5">
@@ -258,7 +298,7 @@
 			Accomplishments, Knowledge, and Skills. Also, we must reflect on our portfolio by analyzing it often to learn from our portfolio,
 			plan from the learnings and act accordingly. 
 			
-			<h4 class="mb-3 mt-5">Innovative and Interactive Teaching Methods</h4>
+			<h4 class="mb-3 mt-5"id="1.6">Innovative and Interactive Teaching Methods</h4>
 			
 			<div class="about-author d-flex p-4 bg-light">
               <div class="bio mr-5">
@@ -283,7 +323,7 @@
 				affective too. Also, he highlighted the need of having more research and practical work for the 3rd year and 4th year students who are supposed to 
 				poses higher-order thinking skills compare to the 1st and 2nd-year students.
 			
-			<h4 class="mb-3 mt-5">Lesson Planning</h4>
+			<h4 class="mb-3 mt-5" id="1.7">Lesson Planning</h4>
 			
 			<div class="about-author d-flex p-4 bg-light">
               <div class="bio mr-5">
@@ -301,17 +341,13 @@
 				</p></div>
             </div>
 			
-			
-			
-			
-			
-			<h4 class="mb-3 mt-5">Effective use of Technology</h4>
+			<h4 class="mb-3 mt-5" id="1.8">Effective use of Technology</h4>
 			
 			<div class="about-author d-flex p-4 bg-light">
               <div class="bio mr-5">
                 <img src="images/use_of_technology.jpg" alt="Image placeholder" class="img-fluid mb-4">
               </div>
-              <div class="desc" style="width:1250px">
+              <div class="desc" style="width:1150px">
                 <p> Choosing and using tools that are available with the evolution of technology effectively can enhance the teaching and learning process of any delivery.
 					Dr. Malitha wijesundara, who is currently serving as the Dean of Faculty of Humanities & Sciences conducted this interesting session.
 					Dr. Malitha introduced various tools and technologies that we can use including mindmaps, open board, etc.
@@ -325,12 +361,12 @@
 					from Dr. Malitha as well as a couple of external evaluators and our team received the best presentation award for this activity.
 				
 			
-			<h3 class="mb-3 mt-5">2. Assessment and Evaluation</h3>
+			<h3 class="mb-3 mt-5" id="2">2. Assessment and Evaluation</h3>
 			Assessment should involve assessing all three domains of students, knowledge, skills, and attitude. 
 			The majority of the assessments evaluate the knowledge only or knowledge and skills up to a certain level, it important to assessing
 			all three domains. This series of sessions on Assessment and Evaluation was conducted by our valuable resource person, Prof. Chalinda.
 			
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light" id="2.1">
               <div class="bio mr-5">
                 <img src="images/summative_formmative.jpg" alt="Image placeholder" class="img-fluid mb-4">
               </div>
@@ -346,7 +382,7 @@
 				Further Prof. Chalinda highlighted it would be helpful for the students if the feedback for the end semester summative evaluations are also given.
 			
 
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light" id="2.2">
               <div class="bio mr-5">
                 <img src="images/assessment_methods.png" alt="Image placeholder" class="img-fluid mb-4">
               </div>
@@ -366,7 +402,7 @@
 			It is important to have a better balance of different assessment methods, and careful choice of method to evaluate different domains of 
 			learning as well their different stages.
 			
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light" id="2.3">
               <div class="bio mr-5">
                 <img src="images/grading_assessments.jpg" alt="Image placeholder" class="img-fluid mb-4">
               </div>
@@ -385,11 +421,11 @@
 			Further, it should be customized for the assessment to grading the achievement of objectives. For example, grading a presentation would require
 			grading voice variation, body postures, eye contact, etc.
 			
-			<h3 class="mb-3 mt-5">3. Curriculum Development</h3>
+			<h3 class="mb-3 mt-5" id="3">3. Curriculum Development</h3>
 			Understanding the development process of the curriculum and inter-related key factors of curriculum development is vital for any academic.
 			This session was conducted by Prof. Ranjith Pallegama. He is currently serving as the Director, Center of Quality Assurance, University of Peradeniya.
 			
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light" id="3.1">
               <div class="bio mr-5">
                 <img src="images/OBE.png" alt="Image placeholder" class="img-fluid mb-4">
               </div>
@@ -403,7 +439,7 @@
 				</p></div>
             </div>
 			
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light" id="3.2">
               <div class="bio mr-5">
                 <img src="images/curriculm_development.PNG" alt="Image placeholder" class="img-fluid mb-4">
               </div>
@@ -423,10 +459,10 @@
 				learning outcome as well as the graduate profile. Modules delivered in other years should have learning outcomes set to support the 
 				the learning outcome of the modules taught in the following years. 
 			
-			<h3 class="mb-3 mt-5">4. Orientation as a Teacher</h3>
+			<h3 class="mb-3 mt-5" id="4">4. Orientation as a Teacher</h3>
 			This session was conducted by Prof. Chalinda Beneragama, who is serving as the Director of Staff Development Center, University of Peradeniya.
 			
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light" id="4.1">
               <div class="bio mr-5">
                 <img src="images/teacher.jpg" alt="Image placeholder" class="img-fluid mb-4">
               </div>
@@ -439,7 +475,7 @@
 				</p></div>
             </div>
 			
-			<div class="about-author d-flex p-4 bg-light">
+			<div class="about-author d-flex p-4 bg-light" id="4.2">
               <div class="bio mr-5">
                 <img src="images/softskills.jpg" alt="Image placeholder" class="img-fluid mb-4">
               </div>
@@ -457,10 +493,10 @@
 				Prof. Chalinda recommended attending listening and speaking workshops as these skills are paid less attention but still play a major role in our day-to-day communication.
 				
 			
-			<h3 class="mb-3 mt-5">5. Research in the life of an academic</h3>
+			<h3 class="mb-3 mt-5"id="5">5. Research in the life of an academic</h3>
 			
 			
-			<h3 class="mb-3 mt-5">6. Personal Development</h3>
+			<h3 class="mb-3 mt-5" id="6">6. Personal Development</h3>
 			Majority of the sessions on personal development was conducted by Dr. B.M.K. Perera. 
 			He was a Senior Lecturer at University of Peradeniya and he is serving as a Director of Career Guidance Unit, University of Peradeniya. Dr B.M.K Perera poses a diverse set of experience into the field of Psychology and has been an instrumental inspiration to biding Psychologists and Psychology researcher.
 			
